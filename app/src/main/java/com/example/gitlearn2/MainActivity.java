@@ -12,5 +12,6 @@ String firstValue;
         setContentView(R.layout.activity_main);
 
         System.out.println("first commit changes");
+        System.out.println("major changes");
     }
 }
