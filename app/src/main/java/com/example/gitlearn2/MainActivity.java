@@ -19,5 +19,7 @@ String firstValue;
         System.out.println("Ficzer 1");
 
         System.out.println("Ficzer 2");
+
+        System.out.println("Ficzer 3");
     }
 }
