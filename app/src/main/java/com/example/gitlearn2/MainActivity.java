@@ -15,5 +15,7 @@ String firstValue;
         System.out.println("major changes");
         System.out.println();
         System.out.println("Second");
+
+        System.out.println("Ficzer 1");
     }
 }
