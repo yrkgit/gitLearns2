@@ -14,5 +14,6 @@ String firstValue;
         System.out.println("first commit changes");
         System.out.println("major changes");
         System.out.println();
+        System.out.println("Second");
     }
 }
