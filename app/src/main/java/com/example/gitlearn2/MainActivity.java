@@ -21,7 +21,5 @@ String firstValue;
         System.out.println("Ficzer 2");
 
         System.out.println("Ficzer 3");
-        System.out.println("Ficzer 4");
-
     }
 }
