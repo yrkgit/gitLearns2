@@ -23,7 +23,7 @@ String firstValue;
         System.out.println("Ficzer 3");
         System.out.println("change1");
         System.out.println("change2");
-        System.out.println();
+        System.out.println("exp");
         System.out.println();
     }
 }
