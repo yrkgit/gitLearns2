@@ -24,6 +24,5 @@ String firstValue;
         System.out.println("change1");
         System.out.println("change2");
         System.out.println("master");
-        System.out.println();
     }
 }
